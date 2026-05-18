@@ -1,5 +1,6 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 import React, { useState, useEffect } from "react";
-import { getMalls, createBooking } from "../api";
+import { createBooking } from "../api";
 import AIDashboard from "./AIDashboard";
 import NumberPlate from "./NumberPlate";
 import BookingHistory from "./BookingHistory";
