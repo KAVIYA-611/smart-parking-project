@@ -1,0 +1,28 @@
+{
+  "madurai": [
+    {
+      "id": "vishaal",
+      "name": "Vishaal De Mall",
+      "total": 300,
+      "available": 120,
+      "location": "Madurai",
+      "status": "Open"
+    },
+    {
+      "id": "milanem",
+      "name": "Milan'em Mall",
+      "total": 250,
+      "available": 80,
+      "location": "Madurai",
+      "status": "Open"
+    },
+    {
+      "id": "templecity",
+      "name": "Temple City Mall",
+      "total": 400,
+      "available": 150,
+      "location": "Madurai",
+      "status": "Busy"
+    }
+  ]
+}
